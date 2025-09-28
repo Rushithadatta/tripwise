@@ -1,0 +1,41 @@
+# Node.js dependencies
+node_modules/
+package-lock.json
+
+# Environment variables
+*.env
+backend/.env
+frontend/.env
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Build outputs
+dist/
+build/
+frontend/build/
+frontend/dist/
+
+# Temporary files
+*.tmp
+*.temp
+
+# VSCode settings
+.vscode/
+
+# Firebase / Firestore (optional, if you don't want to commit indexes/rules)
+firestore.indexes.json
+firestore.rules
+
+# Python or other language folders if any
+__pycache__/
+*.pyc
+
+model_training/requirements.txt
+main_model_training/requirements.txt

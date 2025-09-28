@@ -1,0 +1,244 @@
+{
+  "results": [
+    {
+      "name": "Lumbini Park (small urban park)",
+      "category": "attraction",
+      "distance_km": 0.1383,
+      "rating": 4.2,
+      "entry_fee(approx)": 30.0,
+      "score": 0.942181
+    },
+    {
+      "name": "Erra Matti Dibbalu (Red Sand Hills)",
+      "category": "attraction",
+      "distance_km": 0.3766,
+      "rating": 4.2,
+      "entry_fee(approx)": 0.0,
+      "score": 0.939013
+    },
+    {
+      "name": "Red Beach cliffs",
+      "category": "attraction",
+      "distance_km": 0.8928,
+      "rating": 4.2,
+      "entry_fee(approx)": 0.0,
+      "score": 0.925443
+    },
+    {
+      "name": "Collector's Office (heritage)",
+      "category": "attraction",
+      "distance_km": 3.0147,
+      "rating": 4.2,
+      "entry_fee(approx)": 0.0,
+      "score": 0.867268
+    },
+    {
+      "name": "Maddalapalem viewpoint areas",
+      "category": "attraction",
+      "distance_km": 3.9324,
+      "rating": 4.2,
+      "entry_fee(approx)": 0.0,
+      "score": 0.847803
+    },
+    {
+      "name": "Tyda Park (local)",
+      "category": "attraction",
+      "distance_km": 4.3279,
+      "rating": 4.2,
+      "entry_fee(approx)": 0.0,
+      "score": 0.840582
+    },
+    {
+      "name": "KGV Park (neighborhood)",
+      "category": "attraction",
+      "distance_km": 4.8426,
+      "rating": 4.2,
+      "entry_fee(approx)": 0.0,
+      "score": 0.832019
+    },
+    {
+      "name": "Yendada viewpoints",
+      "category": "attraction",
+      "distance_km": 4.9259,
+      "rating": 4.2,
+      "entry_fee(approx)": 0.0,
+      "score": 0.830262
+    },
+    {
+      "name": "VUDA Park",
+      "category": "attraction",
+      "distance_km": 0.0941,
+      "rating": 4.2,
+      "entry_fee(approx)": 30.0,
+      "score": 0.783812
+    },
+    {
+      "name": "TU-142 Aircraft Museum",
+      "category": "attraction",
+      "distance_km": 0.1792,
+      "rating": 4.2,
+      "entry_fee(approx)": 30.0,
+      "score": 0.781537
+    },
+    {
+      "name": "Supreme Hotel",
+      "category": "hotel",
+      "distance_km": 0.1442,
+      "rating": 4.0,
+      "cost_per_night(approx)": 2169.0,
+      "score": 0.715854
+    },
+    {
+      "name": "Hotel C Comfort",
+      "category": "hotel",
+      "distance_km": 3.8793,
+      "rating": 4.1,
+      "cost_per_night(approx)": 1978.0,
+      "score": 0.690837
+    },
+    {
+      "name": "Hotel V Pride",
+      "category": "hotel",
+      "distance_km": 3.9199,
+      "rating": 4.1,
+      "cost_per_night(approx)": 2268.0,
+      "score": 0.682797
+    },
+    {
+      "name": "Vani Lodge",
+      "category": "hotel",
+      "distance_km": 3.9707,
+      "rating": 3.2,
+      "cost_per_night(approx)": 706.0,
+      "score": 0.672231
+    },
+    {
+      "name": "Hotel Vishnu Residency",
+      "category": "hotel",
+      "distance_km": 3.8971,
+      "rating": 3.2,
+      "cost_per_night(approx)": 890.0,
+      "score": 0.66788
+    },
+    {
+      "name": "Hotel SM Paradise",
+      "category": "hotel",
+      "distance_km": 4.0081,
+      "rating": 4.2,
+      "cost_per_night(approx)": 1500.0,
+      "score": 0.66677
+    },
+    {
+      "name": "Hotel Mantralaya",
+      "category": "hotel",
+      "distance_km": 3.9632,
+      "rating": 3.4,
+      "cost_per_night(approx)": 1000.0,
+      "score": 0.662333
+    },
+    {
+      "name": "Landmark Hotel",
+      "category": "hotel",
+      "distance_km": 0.0941,
+      "rating": 3.9,
+      "cost_per_night(approx)": 1531.0,
+      "score": 0.650259
+    },
+    {
+      "name": "Hotel Meghalaya",
+      "category": "hotel",
+      "distance_km": 0.5359,
+      "rating": 3.9,
+      "cost_per_night(approx)": 2838.0,
+      "score": 0.648699
+    },
+    {
+      "name": "Supline Comfort ",
+      "category": "hotel",
+      "distance_km": 0.5528,
+      "rating": 4.3,
+      "cost_per_night(approx)": 3622.0,
+      "score": 0.639623
+    },
+    {
+      "name": "Maharaja's Feast ",
+      "category": "restaurant",
+      "distance_km": 0.1119,
+      "rating": 4.2,
+      "avg_cost(expected)": 500.0,
+      "score": 0.798794
+    },
+    {
+      "name": "Beach Road Food Stalls",
+      "category": "restaurant",
+      "distance_km": 0.6189,
+      "rating": 4.2,
+      "avg_cost(expected)": 300.0,
+      "score": 0.792875
+    },
+    {
+      "name": "VUDA Park Food Stalls",
+      "category": "restaurant",
+      "distance_km": 0.1295,
+      "rating": 4.2,
+      "avg_cost(expected)": 200.0,
+      "score": 0.789576
+    },
+    {
+      "name": "Jagadamba Centre Street Food",
+      "category": "restaurant",
+      "distance_km": 0.2239,
+      "rating": 4.2,
+      "avg_cost(expected)": 200.0,
+      "score": 0.78942
+    },
+    {
+      "name": "Lawsons Bay Road Street Food",
+      "category": "restaurant",
+      "distance_km": 1.1226,
+      "rating": 4.2,
+      "avg_cost(expected)": 200.0,
+      "score": 0.785326
+    },
+    {
+      "name": "Royal Biryani House",
+      "category": "restaurant",
+      "distance_km": 0.1067,
+      "rating": 4.3,
+      "avg_cost(expected)": 200.0,
+      "score": 0.773559
+    },
+    {
+      "name": "Upland Bistro",
+      "category": "restaurant",
+      "distance_km": 0.0785,
+      "rating": 4.2,
+      "avg_cost(expected)": 1200.0,
+      "score": 0.772866
+    },
+    {
+      "name": "Cosmic House",
+      "category": "restaurant",
+      "distance_km": 1.0618,
+      "rating": 4.3,
+      "avg_cost(expected)": 1000.0,
+      "score": 0.766741
+    },
+    {
+      "name": "MVP Colony Street Food",
+      "category": "restaurant",
+      "distance_km": 2.4448,
+      "rating": 4.2,
+      "avg_cost(expected)": 100.0,
+      "score": 0.764958
+    },
+    {
+      "name": "Kurmannapalem Street Food",
+      "category": "restaurant",
+      "distance_km": 4.0,
+      "rating": 4.2,
+      "avg_cost(expected)": 300.0,
+      "score": 0.756963
+    }
+  ]
+}
