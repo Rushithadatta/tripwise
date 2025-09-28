@@ -2,13 +2,13 @@ Prototype Demo :
 
 🛫 TripWise : Smart AI Trip Planner
 
-🔹 Overview:
+#Overview:
 
 TripWise is a smart AI-powered trip planning website that helps travelers generate personalized, budget-friendly, and day-wise itineraries.
 
 Unlike existing apps, TripWise focuses on budget-first planning, smart nearby suggestions, and integration of local services (guides, rentals, emergency contacts).
 
-🔹 Problem Statement:
+#Problem Statement:
 
 1)Travelers struggle to manually plan trips across scattered platforms (transport, hotels, food, attractions).
 
