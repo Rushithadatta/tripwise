@@ -11,8 +11,11 @@ Unlike existing apps, TripWise focuses on budget-first planning, smart nearby su
 🔹 Problem Statement:
 
 1)Travelers struggle to manually plan trips across scattered platforms (transport, hotels, food, attractions).
+
 2)Existing apps give static recommendations without considering budget, food preferences, or must-visit places.
+
 3)Local services like rentals and emergency contacts are missing.
+
 👉 This leads to wasted time, overspending, and missed cultural experiences.
 
 🔹 Features:
