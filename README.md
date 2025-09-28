@@ -1,6 +1,8 @@
-Prototype Demo :
+# Prototype Demo :
 
-🛫 TripWise : Smart AI Trip Planner
+
+
+# 🛫 TripWise : Smart AI Trip Planner
 
 # Overview:
 
