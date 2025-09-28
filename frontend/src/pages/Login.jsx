@@ -12,13 +12,13 @@ import { getAnalytics, isSupported } from "firebase/analytics";
 
 // ✅ Correct Firebase Config
 const firebaseConfig = {
-  apiKey: "AIzaSyAr7kACXQk4qd8vJTV8bkqsK0vh-Nn_kQ4",
-  authDomain: "smarttripai-f9c1e.firebaseapp.com",
+  apiKey: "YOUR_FIREBASE_API_KEY",
+  authDomain: "YOUR_DOMAIN",
   projectId: "smarttripai-f9c1e",
-  storageBucket: "smarttripai-f9c1e.appspot.com",
-  messagingSenderId: "147919526036",
-  appId: "1:147919526036:web:af9cb2bbcdc57bae42bc81",
-  measurementId: "G-HTS4T8XL6M"
+  storageBucket: "YOUR_STORAGE",
+  messagingSenderId: "",
+  appId: "",
+  measurementId: ""
 };
 
 const app = initializeApp(firebaseConfig);
