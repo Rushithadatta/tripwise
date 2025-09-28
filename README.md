@@ -7,14 +7,16 @@ TripWise is a smart AI-powered trip planning website that helps travelers genera
 Unlike existing apps, TripWise focuses on budget-first planning, smart nearby suggestions, and integration of local services (guides, rentals, emergency contacts).
 
 🔹 Problem Statement:
-Travelers struggle to manually plan trips across scattered platforms (transport, hotels, food, attractions).
-Existing apps give static recommendations without considering budget, food preferences, or must-visit places.
-Local services like rentals and emergency contacts are missing.
+1)Travelers struggle to manually plan trips across scattered platforms (transport, hotels, food, attractions).
+2)Existing apps give static recommendations without considering budget, food preferences, or must-visit places.
+3)Local services like rentals and emergency contacts are missing.
 👉 This leads to wasted time, overspending, and missed cultural experiences.
 
 🔹 Features:
 ✅ Takes inputs like source, destination, people, days, budget, transport, hotel type (AC/Non-AC), and food (Veg/Non-Veg).
+
 ✅ Generates AI-optimized day-wise itineraries.
+
 ✅ Provides transport, hotels, food, attractions, and hidden gems.
 ✅ Includes local services like bike rentals, camera rentals, emergency contacts (hospital, police station).
 ✅ Real-time trip tracking + nearby recommendations.
