@@ -2,13 +2,13 @@ Prototype Demo :
 
 🛫 TripWise : Smart AI Trip Planner
 
-#Overview:
+# Overview:
 
 TripWise is a smart AI-powered trip planning website that helps travelers generate personalized, budget-friendly, and day-wise itineraries.
 
 Unlike existing apps, TripWise focuses on budget-first planning, smart nearby suggestions, and integration of local services (guides, rentals, emergency contacts).
 
-#Problem Statement:
+# Problem Statement:
 
 1)Travelers struggle to manually plan trips across scattered platforms (transport, hotels, food, attractions).
 
@@ -18,7 +18,7 @@ Unlike existing apps, TripWise focuses on budget-first planning, smart nearby su
 
 👉 This leads to wasted time, overspending, and missed cultural experiences.
 
-🔹 Features:
+# Features:
 ✅ Takes inputs like source, destination, people, days, budget, transport, hotel type (AC/Non-AC), and food (Veg/Non-Veg).
 
 ✅ Generates AI-optimized day-wise itineraries.
@@ -31,7 +31,7 @@ Unlike existing apps, TripWise focuses on budget-first planning, smart nearby su
 
 ✅ Export plans to PDF/Excel for offline use.
 
-🔹 User Journey:
+# User Journey:
 
 Login/Signup – via Google, email, or guest mode.
 
@@ -45,7 +45,7 @@ Customize & Share – swap attractions, adjust budget/time, export itinerary.
 
 Local Support – guides, rentals, hospitals, police stations.
 
-🔹 Tech Stack:
+# Tech Stack:
 
 Frontend: React.js, TailwindCSS / Material UI, Redux/Context API, React Router
 
@@ -59,7 +59,7 @@ AI/ML: Recommendation engine, budget optimizer, NLP chatbot
 
 Maps: Google Maps API, GPS tracking
 
-🔹 Roadmap:
+# Roadmap:
 
 Phase 1 (MVP): Login + Source/Destination + Basic itinerary
 
@@ -69,7 +69,7 @@ Phase 3: Local support & emergency integration
 
 Phase 4: Smart features (AI chatbot, offline export, gamification)
 
-🔹 Example Flow
+# Example Flow
 
 Input: Hyderabad → Jaipur, 3 people, 5 days, ₹20,000 budget
 
@@ -91,7 +91,7 @@ Day 5: Shopping + return
 
 Includes cost breakdown + emergency contacts + export option.
 
-🔹 Unique Selling Points:
+# Unique Selling Points:
 
 🏷️ Budget-first planning
 
@@ -124,7 +124,7 @@ npm install
 
 npm run dev
 
-🔹 Contributing:
+# Contributing:
 
 We welcome contributions!
 
